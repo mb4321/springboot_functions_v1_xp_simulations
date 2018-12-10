@@ -5,4 +5,12 @@ public class Calculators {
     public int addTwoNumbers(int input1, int input2) {
         return input1 + input2;
     }
+
+    public void calculateStringLength(String string) {
+
+    }
+
+    public void calculateStringInitialCharacter(String string) {
+
+    }
 }
